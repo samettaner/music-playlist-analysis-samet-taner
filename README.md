@@ -1,6 +1,7 @@
 # music-playlist-analysis-samet-taner
 
 Proje amacı : Music Playlist Analizi sistemi
+
 method acıklamaları : 
 
                     get_total_duration
